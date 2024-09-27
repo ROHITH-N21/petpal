@@ -1,6 +1,9 @@
-# CodeCatalysts
+# CodeCatalysts - DSU DEVHACK
+Theme: Web3 + Blockchain
+
 # Whitepaper:
 https://docs.google.com/document/d/1h02u7VpR-qRPyH6fZiswlCxFvgpzHlDS/edit?usp=drive_link&ouid=109343064849184251796&rtpof=true&sd=true
+
 # Problem Statement:
 As we know, the number of endangered animals is increasing, and the condition of stray animals is getting worse daily. So, we are making a community-driven dApp for the welfare of the animals. 
 Earlier, there are intermediators, so donations could not deliver the funds to the right place. Through web3, we will decentralize the system, and donated funds can directly get transferred to the deserved place without centralizing the donations.
