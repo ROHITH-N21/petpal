@@ -1,4 +1,4 @@
-# CodeCatalysts - DSU DEVHACK
+# DSU DEVHACK - CodeCatalysts!
 Theme: Web3 + Blockchain
 
 # Whitepaper:
