@@ -3,6 +3,10 @@ Theme: Web3 + Blockchain
 
 # Whitepaper:
 https://docs.google.com/document/d/1h02u7VpR-qRPyH6fZiswlCxFvgpzHlDS/edit?usp=drive_link&ouid=109343064849184251796&rtpof=true&sd=true
+# Idea Presentation:
+https://drive.google.com/file/d/1LkdwQCqljyBjC5iOHJ4SiblJpTM5a3p3/view?usp=sharing
+# Canva:
+https://www.canva.com/design/DAGR7iNOHnk/n3tx0GTaj-xyWTMCjFkFWg/edit?utm_content=DAGR7iNOHnk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # Problem Statement:
 As we know, the number of endangered animals is increasing, and the condition of stray animals is getting worse daily. So, we are making a community-driven dApp for the welfare of the animals. 
